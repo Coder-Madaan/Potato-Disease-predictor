@@ -8,10 +8,7 @@
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Training](#model-training)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
