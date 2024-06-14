@@ -97,9 +97,4 @@ After downloading, extract the contents and place them as mentioned in the .ipyn
 
 The model is trained using a Convolutional Neural Network (CNN) with data augmentation techniques to improve accuracy. The `splitfolders` library is used to split the dataset into training, validation, and test sets.
 
-### Training Script
 
-The training script is located in the `backend` directory. To train the model, run the following command:
-
-```bash
-python main.py
